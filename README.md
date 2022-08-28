@@ -41,7 +41,7 @@ YESSICA VIVIANA DUARTE FINO
 - [HTML](https://lenguajehtml.com/html/)
 - [CSS](https://lenguajecss.com/)
 - [JAVASRIPT](https://www.javascript.com/)
-- [C# .NET](https://docs.microsoft.com/es-es/dotnet/welcome)
+- [ASP .NET CORE](https://docs.microsoft.com/es-es/dotnet/welcome)
 - [SQL SERVER](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
 
 
