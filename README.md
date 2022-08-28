@@ -46,7 +46,7 @@ Se requiere de un equipo de programadores para trabajar la metodologia agil Scru
 
 ## Descripcion del Proyecto 
 
-`Puede visitar el siguente link para leer detalladamente el problema ` :[ https://multiservicioglobalcar/Documentacion/](https://github.com/Proyecto-Imaster-Ciclo-3/MultiserviciosGlobalCar/blob/main/Documentacion.md)
+`Puede visitar el link para leer detalladamente el problema ` :[ https://multiservicioglobalcar/Documentacion/](https://github.com/Proyecto-Imaster-Ciclo-3/MultiserviciosGlobalCar/blob/main/Documentacion.md)
 
 
 ## Modelo Conceptual 
