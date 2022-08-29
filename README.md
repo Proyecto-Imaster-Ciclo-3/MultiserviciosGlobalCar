@@ -16,13 +16,13 @@ Se requiere de un equipo de programadores para trabajar la metodologia agil Scru
 
 [JESUS GABRIEL TOLOSA ZABALA](https://github.com/gabotolosa)
 
-[JUAN DAVID VILLAMIL MORA](https://github.com/judavimo17)
+JUAN DAVID VILLAMIL MORA
 
-[ALBA YANETH NIÑO QUINTERO](https://github.com/albanino)
+ALBA YANETH NIÑO QUINTERO
 
 [CARLOS MAURICIO TELLEZ GUTIERREZ](https://github.com/manbicho)
 
-[YESSICA VIVIANA DUARTE FINO](https://github.com/vivdu)
+YESSICA VIVIANA DUARTE FINO
 
 ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
