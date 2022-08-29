@@ -22,7 +22,7 @@ Se requiere de un equipo de programadores para trabajar la metodologia agil Scru
 
 [CARLOS MAURICIO TELLEZ GUTIERREZ](https://github.com/manbicho)
 
-YESSICA VIVIANA DUARTE FINO
+[YESSICA VIVIANA DUARTE FINO](https://github.com/vivdu)
 
 ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
