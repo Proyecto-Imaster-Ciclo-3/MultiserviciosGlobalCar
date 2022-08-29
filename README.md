@@ -18,7 +18,7 @@ Se requiere de un equipo de programadores para trabajar la metodologia agil Scru
 
 [JUAN DAVID VILLAMIL MORA](https://github.com/judavimo17)
 
-ALBA YANETH NIÑO QUINTERO
+[ALBA YANETH NIÑO QUINTERO](https://github.com/albanino)
 
 [CARLOS MAURICIO TELLEZ GUTIERREZ](https://github.com/manbicho)
 
