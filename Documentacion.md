@@ -38,23 +38,7 @@
 
 La empresa en cuestión tiene como visión mantener confianza en sus clientes para el cuidado personalizado en sus vehículos, para ello requiere un sistema donde los clientes puedan solicitar su ayuda a la mano de un clic y puedan estar confiados 24/7 ante cualquier eventualidad, para ellos los clientes pueden adquirir nuestros paquetes o planes que pueden pagar mensual, trimestral, semestral o anual que van desde el lavada d sus vehículos a domicilio, revisión técnico mecánica personalizada, ayudas en procesos legales y documentación, hasta recogida en grúa desde cualquier lugar de la ciudad y área metropolitana sin ningún costo adicional 
 
-La suma de todos los servicios solicitados compone un historial del vehículo.
-
-Los clientes q estén activos en su suscripción tienen los siguientes beneficios:
-
-- 2 lavadas gratis en sus instalaciones o a domicilio
-- 1 servicio preventivo sin costo (cambio aceite, cambio líquido refrigerante, filtro, cambio frenos) en sus instalaciones mensual
-- Servicio grúa 24/7 desde cualquier parte de la ciudad y su área metropolitana 
-- Diagnostico gratis de expertos de cualquiera de nuestros servicios especializados en sus instalaciones citando previamente
-
-Servicios expertos: 
-- Latonería, pintura y embellecimiento
-- Mecánica general
-- Sistema eléctrico (luces, pito, encendido, alarma, sonido)
-- Asesorías d procesos legales y documentación (traspasos, impuestos, soat, tecno mecánica, cambio de ciudad, chatarisacion)
-- Revisión gas aire acondicionado
-- Mecánica preventiva (cambio aceite, cambio líquido refrigerante, filtro)
-
+## Nuestros planes de subscripcion son: 
 
 | Tipo de Vehiculo  | Mensual  | Trimestral | Semestral | Anual |
 | :------------ |:---------------:|:---------------:|:---------------:| :------:|   
@@ -66,15 +50,25 @@ Servicios expertos:
 |Camion/Furgon| 200.000 | 500.000 | 900.000 | 1.600.000 
                  
 
-<h1 align="center"> Descripción del Diseño</h1>
+Los clientes q estén activos en su suscripción tienen los siguientes beneficios:
 
-### Requisitos
+- 2 lavadas gratis mensuales en sus instalaciones o a domicilio
+- 1 servicio preventivo mensual sin costo (cambio aceite, cambio líquido refrigerante, filtro, cambio frenos) en sus instalaciones
+- Servicio grúa 24/7 desde cualquier parte de la ciudad y su área metropolitana 
+- Diagnostico gratis de expertos de cualquiera de nuestros servicios especializados en sus instalaciones citando previamente
 
-El funcionamiento de la aplicación es el siguiente:
+Servicios expertos: 
+- Latonería, pintura y embellecimiento
+- Mecánica general
+- Sistema eléctrico (luces, pito, encendido, alarma, sonido)
+- Asesorías d procesos legales y documentación (traspasos, impuestos, soat, tecno mecánica, cambio de ciudad, chatarisacion)
+- Revisión gas aire acondicionado
+- Mecánica preventiva (cambio aceite, cambio líquido refrigerante, filtro)
 
-Al iniciar, se abrirá una pantalla informativa de los servicios que presta la empresa y tendrá un lugar para inicio de sesión, y registro, en la que el usuario tendrá que logearse a partir del documento y una contraseña para ingresar al menú principal del sistema. Si el usuario no está registrado, podrá registrarse como cliente nuevo y llenar un formulario de inscripción, una vez ingresado el usuario nuevo se dirigirá a ingresar un vehículo para tener acceso a todo el sistema, un cliente tiene los siguientes atributos (nombre, apellido, cedula, contraseña, teléfono, correo y dirección) 
+La suma de todos los servicios solicitados compone un historial del vehículo.
 
-La primera página tendrá: información de la empresa y los servicios que presta, entrar al sistema y registrarse al sistema
+los clientes que no se encuentren con una membresia activa tendra que asumir el costo del servicio solicitado, toda consulta con nuestros servicios de expertos tiene un costo de $ 50.000
+
 
 |Tipo de Vehiculo | Lavada | Servicio Preventivo | Servicio de grua |
 |:--------------|:-----------:|:----------:|:----------:|
@@ -85,10 +79,25 @@ La primera página tendrá: información de la empresa y los servicios que prest
 |Autobus/Busetas | 70.000 | 250.000 | 180.000
 |Camion/Furgon| 70.000 | 300.000 | 250.000 
 
-Tras el login, aparecerá la pantalla principal de la aplicación, donde se mostrará el tablero del usuario donde podrá interactuar con las diferentes funciones del sistema, el usuario podrá modificar solo los siguientes atributos: contraseña, teléfono, dirección y correo, si su estado es activo podrá solicitar sus servicio preventivo sin costo (lavada, cambio aceite, cita de solicitud servicio especializado o servicio grúa), podrá consultar su historial de servicios de su vehículo, podrá ingresar otro vehículo o eliminarlo y finalmente el usuario podrá darse de baja eliminando su cuenta
+
+
+<h1 align="center"> Descripción del Diseño</h1>
+
+### Requisitos
+
+El funcionamiento de la aplicación es el siguiente:
+
+Al iniciar, se abrirá una pantalla informativa de los servicios que presta la empresa y tendrá un lugar para inicio de sesión, y registro, en la que el usuario tendrá que logearse a partir del documento y una contraseña para ingresar al menú principal del sistema. Si el usuario no está registrado, podrá registrarse como cliente nuevo y llenar un formulario de inscripción, una vez ingresado el usuario nuevo se dirigirá a ingresar un vehículo para tener acceso a todo el sistema, un cliente tiene los siguientes atributos (nombre, apellido, cedula, contraseña, teléfono, correo y dirección) 
+
+La primera página tendrá: información de la empresa y los servicios que presta, entrar al sistema y registrarse al sistema
+
+
+Tras el login, aparecerá la pantalla principal de la aplicación, donde se mostrará el tablero del usuario donde podrá interactuar con las diferentes funciones del sistema, el usuario podrá modificar solo los siguientes atributos: contraseña, teléfono, dirección y correo, si su estado es activo podrá solicitar sus servicio preventivo sin costo (lavada, cambio aceite, cita de solicitud servicio especializado o servicio grúa), podrá consultar su historial de servicios de su vehículo, podrá ingresar otro vehículo o eliminarlo y finalmente el usuario podrá darse de baja eliminando su cuenta ingresando su numero de documento y cedula para verificar su identidad
 
 El usuario podrá consultar los datos de los especialistas desde solicitar servicios (nombre, apellido, especialidad) y los servicios que presta
 
 Se tendrán una base de datos con los especialistas y se llenara mediantes sentencia SQL desde el editor de base d datos utilizado durante el ciclo, si alcanza el tiempo se podría implementar un formulario CRUD para interactuar con los especialistas
 
+El maquop del sistema lo puede consultar en el siguiente enlace [https://multiserviciosglobalcar/home](https://app.moqups.com/4pRHo6LzbkrLMu4CuIvGJLrWCLWIN9AI/view/page/a5ec1f375)
 
+Los diagramas del sitema lo puedes consultar en el siguiente enlace [https://www.multiserviciosglobalcar/Diagramas](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=jmDnNmUA80Y7p93uCzOF&title=Diagrama%20sin%20t%C3%ADtulo%20drawio.html#G1Wg6vq2D67Z42oyh-EkzBnOz0WoRgrSwu)
