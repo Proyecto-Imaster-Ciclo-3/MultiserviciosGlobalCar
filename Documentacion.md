@@ -36,14 +36,14 @@
 <h1 align="center"> Dominio del sistema </h1>
 
 
-La empresa en cuestión tiene como visión mantener confianza en sus clientes para el cuidado personalizado en sus vehículos, para ello requiere un sistema donde los clientes puedan solicitar su ayuda a la mano de un clic y puedan estar confiados 24/7 ante cualquier eventualidad,para ellos los clientes pueden adquirir nuestros paquetes o planes que pueden pagar mensual, trimestral, semestral o anual que van desde el lavada d sus vehículos a domicilio, revisión técnico mecánica personalizada, ayudas en procesos legales y documentación, hasta recogida en grúa desde cualquier lugar de la ciudad y área metropolitana sin ningún costo adicional 
+La empresa en cuestión tiene como visión mantener confianza en sus clientes para el cuidado personalizado en sus vehículos, para ello requiere un sistema donde los clientes puedan solicitar su ayuda a la mano de un clic y puedan estar confiados 24/7 ante cualquier eventualidad, para ellos los clientes pueden adquirir nuestros paquetes o planes que pueden pagar mensual, trimestral, semestral o anual que van desde el lavada d sus vehículos a domicilio, revisión técnico mecánica personalizada, ayudas en procesos legales y documentación, hasta recogida en grúa desde cualquier lugar de la ciudad y área metropolitana sin ningún costo adicional 
 
 La suma de todos los servicios solicitados compone un historial del vehículo.
 
 Los clientes q estén activos en su suscripción tienen los siguientes beneficios:
 
 - 2 lavadas gratis en sus instalaciones o a domicilio
-- 1 servicio preventivo sin costo (cambio aceite, cambio líquido refrigerante, filtro, cambio frenos) en sus instalaciones 
+- 1 servicio preventivo sin costo (cambio aceite, cambio líquido refrigerante, filtro, cambio frenos) en sus instalaciones mensual
 - Servicio grúa 24/7 desde cualquier parte de la ciudad y su área metropolitana 
 - Diagnostico gratis de expertos de cualquiera de nuestros servicios especializados en sus instalaciones citando previamente
 
