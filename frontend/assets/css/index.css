@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+}
+.header-home {
+    display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1rem;
+}
+.btn {
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+    padding: 0.3rem 1rem;
+}
+.btn-login {
+    color: green;
+    border: 2px solid green;
+}
+.btn-login:hover {
+    background-color: green;
+    color: white;
+}
+.btn-register {
+    background-color: green;
+    color: white;
+}
+.btn-register:hover {
+    color: green;
+    border: 2px solid green;
+}
+.home-container {
+    display: flex;
+    gap: 1rem;
+}
+.main-container {
+    margin: 1rem;
+    flex-basis: 40%;
+    display: flex;
+    flex-direction: column;
+}
+.sidebar-container {
+    flex-basis: 60%;
+}
+.title-container {
+    text-align: center;
+}
+.service-container {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.service-box {
+    margin-top: 1rem;
+    color: green;
+    width: 240px;
+    border: 1px solid green;
+}
+.service-icon {
+    font-size: 2rem;
+    padding: 0.5rem;
+    border-radius: 50%;
+    margin-top: -2rem;
+    background-color: lightgreen;
+}
+.service-img {
+    width: 220px;
+}
+.footer-home {
+    display: flex;
+    justify-content: space-around;
+}
+.footer-box p {
+    font-size: small;
+}
