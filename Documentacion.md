@@ -100,4 +100,4 @@ Se tendrán una base de datos con los especialistas y se llenara mediantes sente
 
 El maquop del sistema lo puede consultar en el siguiente enlace [https://multiserviciosglobalcar/home](https://app.moqups.com/4pRHo6LzbkrLMu4CuIvGJLrWCLWIN9AI/view/page/a5ec1f375)
 
-Los diagramas del sitema lo puedes consultar en el siguiente enlace [https://www.multiserviciosglobalcar/Diagramas](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=jmDnNmUA80Y7p93uCzOF&title=Diagrama%20sin%20t%C3%ADtulo%20drawio.html#G1Wg6vq2D67Z42oyh-EkzBnOz0WoRgrSwu)
+Los diagramas del sistema lo puedes consultar en el siguiente enlace [https://www.multiserviciosglobalcar/Diagramas](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=jmDnNmUA80Y7p93uCzOF&title=Diagrama%20sin%20t%C3%ADtulo%20drawio.html#G1Wg6vq2D67Z42oyh-EkzBnOz0WoRgrSwu)
