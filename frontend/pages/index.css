@@ -1,0 +1,140 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+.header-home {
+    display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1rem;
+}
+.logo-bold {
+    width: 200px;
+}
+.btn {
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+    padding: 0.3rem 1rem;
+}
+.btn-login {
+    color: green;
+    border: 2px solid green;
+}
+.btn-login:hover {
+    background-color: green;
+    color: white;
+}
+.btn-register {
+    background-color: green;
+    color: white;
+}
+.btn-register:hover {
+    color: green;
+    border: 2px solid green;
+}
+.home-container {
+    display: flex;
+    gap: 1rem;
+}
+.main-container {
+    margin: 1rem;
+    flex-basis: 40%;
+    display: flex;
+    flex-direction: column;
+}
+.sidebar-container {
+    flex-basis: 60%;
+}
+.title-container {
+    text-align: center;
+}
+.service-container {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.service-box {
+    margin-top: 1rem;
+    color: green;
+    width: 240px;
+    border: 1px solid green;
+}
+.service-icon {
+    font-size: 2rem;
+    padding: 0.5rem;
+    border-radius: 50%;
+    margin-top: -2rem;
+    background-color: lightgreen;
+}
+.service-img {
+    width: 220px;
+}
+.footer-home {
+    display: flex;
+    justify-content: space-around;
+}
+.footer-box p {
+    font-size: small;
+}
+
+.login-container, .user-register {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(../img/userbg.jpg);
+    background-size: cover;
+    background-position: right;
+    display: table-cell;
+    vertical-align: middle;
+}
+.login-box, .user-form-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    max-width: 350px;
+    width: 90%;
+    padding: 2rem;
+    margin: auto;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.7);
+}
+.login-box {
+    height: 50vh;
+}
+.login-form, .user-form {
+    display: flex;
+    flex-direction: column;
+}
+.logo-alt {
+    margin: 0 auto 2rem auto;
+    width: 90%;
+}
+.login-label, .user-label {
+    color: darkgreen;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.user-label {
+    display: flex;
+    justify-content: space-between;
+}
+.login-control {
+    margin-bottom: 2rem;
+}
+.login-btn {
+    margin: auto;
+}
+.form-control {
+    height: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+.form-control:focus {
+    border: 2px solid green;
+}
