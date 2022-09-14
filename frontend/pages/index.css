@@ -87,7 +87,7 @@ body {
 .login-container, .user-register {
     height: 100vh;
     width: 100vw;
-    background-image: url(../img/userbg.jpg);
+    background-image: url(../assets/img/userbg.jpg);
     background-size: cover;
     background-position: right;
     display: table-cell;
@@ -137,8 +137,4 @@ body {
 }
 .form-control:focus {
     border: 2px solid green;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 36ed9fed3fa9692a3ba37711a587840307896df6
