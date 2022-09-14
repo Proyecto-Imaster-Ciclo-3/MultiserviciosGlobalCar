@@ -87,7 +87,7 @@ body {
 .login-container, .user-register {
     height: 100vh;
     width: 100vw;
-    background-image: url(../assets/img/userbg.jpg);
+    background-image: url(https://www.doncaprio.com/wp-content/uploads/2018/10/computer-user-1024x682.jpeg);
     background-size: cover;
     background-position: right;
     display: table-cell;
