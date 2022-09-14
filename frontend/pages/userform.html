@@ -11,33 +11,36 @@
         <title>Global Car</title>
     </head>
 <body>
-    <main class="user-form">
+    <main class="user-register">
         <section class="user-form-box">
-            <form action="" method="post">
+            <form class="user-form" action="" method="post">
+                <img class="logo-alt" src="../assets/img/logoalt.png" alt="" />
                 <h3>Registro de usuario</h3>
-                <label for="apellido" class="user-input">
+                <label for="apellido" class="user-label">
                     Apellido<input type="text" id="apellido" class="form-control" placeholder="Apellido">
                 </label>
-                <label class="user-input">
+                <label class="user-label">
                     Nombre<input type="text" class="form-control" placeholder="Nombre">
                 </label>
-                <label class="user-input">
+                <label class="user-label">
                     Cedula<input type="text" class="form-control" placeholder="Cedula">
                 </label>
-                <label class="user-input">
+                <label class="user-label">
                     Contraseña<input type="text" class="form-control" placeholder="Contraseña">
                 </label>
-                <label class="user-input">
+                <label class="user-label">
                     Telefono<input type="text" class="form-control" placeholder="Telefono">
                 </label>
-                <label class="user-input">
+                <label class="user-label">
                     Correo<input type="text" class="form-control" placeholder="Correo electrónico">
                 </label>
-                <label class="user-input">
+                <label class="user-label">
                     Dirección<input type="text" class="form-control" placeholder="Dirección">
                 </label>
-                <h3>Se recomienda verificar bien sus datos de nombre, apeellido y cédula ya que no se pueden editar una vez creado el usuario</h3>
-                <button type="button" class="btn-userform">Registrarse</button>
+                <p>Se recomienda verificar bien sus datos de nombre, apeellido y cédula ya que no se pueden editar una vez creado el usuario</p>
+                <div class="login-btn">
+                    <a href="login.html"><button type="button" class="btn btn-login">Registrarse</button></a>
+                </div>
             </form>
         </section>
     </main>
