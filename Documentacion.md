@@ -16,8 +16,6 @@
 
 [ALBA YANETH NIÑO QUINTERO](https://github.com/albanino)
 
-[CARLOS MAURICIO TELLEZ GUTIERREZ](https://github.com/manbicho)
-
 [YESSICA VIVIANA DUARTE FINO](https://github.com/vivdu)
 
 ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
@@ -28,9 +26,8 @@
 | :------------ |:---------------:| -----:|                    
 |Jesus Tolosa  | Lider Equipo | ing.tolosa@gmail.com
 |Juan Villamil  | Gestor Base Datos |juandvm17@gmail.com
-|Mauricio Tellez | Desarrollador Front|manbicho16@gmail.com
 |Alba Yaneth Niño | Desarrollador Back |ayninoq@gmail.com
-|Viviana Duarte| Tester |yvduartef@gmail.com
+|Viviana Duarte| Desarrollador Front |yvduartef@gmail.com
 
 
 <h1 align="center"> Dominio del sistema </h1>
