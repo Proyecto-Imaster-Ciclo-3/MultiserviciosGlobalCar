@@ -87,7 +87,7 @@ body {
 .login-container, .user-register {
     height: 100vh;
     width: 100vw;
-    background-image: url(../img/userbg.jpg);
+    background-image: url(../assets/img/userbg.jpg);
     background-size: cover;
     background-position: right;
     display: table-cell;
