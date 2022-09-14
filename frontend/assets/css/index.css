@@ -12,6 +12,9 @@ body {
 	align-items: center;
 	padding: 1rem;
 }
+.logo-bold {
+    width: 200px;
+}
 .btn {
     cursor: pointer;
     font-weight: bold;
