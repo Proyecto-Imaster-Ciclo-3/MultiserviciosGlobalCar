@@ -13,13 +13,15 @@
 <body>
     <main class="login-container">
         <section class="login-box">
-            <form action="" method="post">
-                <label for="usuario" class="login-label">
-                    Usuario <input type="text" id="usuario" class="form-control" placeholder="Usuario">
-                </label>
-                <label for="contraseña" class="login-label">
-                    Contraseña <input type="password" id="contraseña" class="form-control" placeholder="Usuario">
-                </label>
+            <form class="login-form" action="" method="post">
+                <img class="logo-alt" src="../assets/img/logoalt.png" alt="" />
+                <label for="usuario" class="login-label">Usuario</label>
+                <input type="text" id="usuario" class="login-control" placeholder="Usuario">
+                <label for="contraseña" class="login-label">Contraseña</label>
+                <input type="password" id="contraseña" class="login-control" placeholder="Usuario">
+                <div class="login-btn">
+                    <a href="dashboard.html"><button type="button" class="btn btn-login">Ingresar</button></a>
+                </div>
             </form>
         </section>
     </main>
