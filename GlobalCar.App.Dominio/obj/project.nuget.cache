@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0aX0V74hZ0qTS3sbVPqiF9AqDVCdlFkbCdrRd2AzByOyGhyr9emX4ETMBBD6KHMBZkkcp2NFy62ZUhtu2e0oMg==",
+  "success": true,
+  "projectFilePath": "C:\\respaldo\\GlobalCar.App\\GlobalCar.App.Dominio\\GlobalCar.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sysic\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sysic\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
