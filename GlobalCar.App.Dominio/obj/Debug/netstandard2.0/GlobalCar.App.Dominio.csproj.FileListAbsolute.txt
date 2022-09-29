@@ -16,3 +16,13 @@ C:\respaldo\GlobalCar.App\GlobalCar.App.Dominio\obj\Debug\netstandard2.0\GlobalC
 C:\respaldo\GlobalCar.App\GlobalCar.App.Dominio\obj\Debug\netstandard2.0\GlobalCar.App.Dominio.csproj.CoreCompileInputs.cache
 C:\respaldo\GlobalCar.App\GlobalCar.App.Dominio\obj\Debug\netstandard2.0\GlobalCar.App.Dominio.dll
 C:\respaldo\GlobalCar.App\GlobalCar.App.Dominio\obj\Debug\netstandard2.0\GlobalCar.App.Dominio.pdb
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Dominio\bin\Debug\netstandard2.0\GlobalCar.App.Dominio.deps.json
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Dominio\bin\Debug\netstandard2.0\GlobalCar.App.Dominio.dll
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Dominio\bin\Debug\netstandard2.0\GlobalCar.App.Dominio.pdb
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Dominio\obj\Debug\netstandard2.0\GlobalCar.App.Dominio.csproj.AssemblyReference.cache
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Dominio\obj\Debug\netstandard2.0\GlobalCar.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Dominio\obj\Debug\netstandard2.0\GlobalCar.App.Dominio.AssemblyInfoInputs.cache
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Dominio\obj\Debug\netstandard2.0\GlobalCar.App.Dominio.AssemblyInfo.cs
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Dominio\obj\Debug\netstandard2.0\GlobalCar.App.Dominio.csproj.CoreCompileInputs.cache
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Dominio\obj\Debug\netstandard2.0\GlobalCar.App.Dominio.dll
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Dominio\obj\Debug\netstandard2.0\GlobalCar.App.Dominio.pdb

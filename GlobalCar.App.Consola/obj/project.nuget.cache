@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MzzEv124Wf3InNta9aPIHxb9zGH7bHrGJLwV8jQRf/D7l01bfwkKeemFd1bc2fyAIWX0iAXvBD15CaJL8TXxag==",
+  "dgSpecHash": "eloxU3E5Ch0W0vQ3FZrZcLs1NVMP2ssK/Q2dnkjyoX201cVxiiBgiIVKSjLDBBnMXBqwEjPG0dPVSECbWGhgsg==",
   "success": true,
-  "projectFilePath": "C:\\respaldo\\GlobalCar.App\\GlobalCar.App.Consola\\GlobalCar.App.Consola.csproj",
+  "projectFilePath": "C:\\respaldo\\GlobalCar.App\\MultiserviciosGlobalCar\\GlobalCar.App.Consola\\GlobalCar.App.Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sysic\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sysic\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

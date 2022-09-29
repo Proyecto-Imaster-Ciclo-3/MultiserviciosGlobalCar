@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AEXsuNbOjvqwqXutDHqHZX73ide+b0reo+mi3QiHYQ6cy3ZbRh7WbdmKjtHYAD1RBSI8VktLjDFw6qwffwBSqg==",
+  "dgSpecHash": "XIAMCRDvJWF7Ixw7BJfY+o8P3IPaSY2hT/P6ecEsvxBsWpTwsaBjmO0sJz2SIuTL5M/echKMVSzZSwJrJIexxQ==",
   "success": true,
-  "projectFilePath": "C:\\respaldo\\GlobalCar.App\\GlobalCar.App.Persistencia\\GlobalCar.App.Persistencia.csproj",
+  "projectFilePath": "C:\\respaldo\\GlobalCar.App\\MultiserviciosGlobalCar\\GlobalCar.App.Persistencia\\GlobalCar.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sysic\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sysic\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

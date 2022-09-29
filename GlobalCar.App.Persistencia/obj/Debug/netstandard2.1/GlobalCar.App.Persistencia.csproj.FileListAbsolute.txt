@@ -22,3 +22,16 @@ C:\respaldo\GlobalCar.App\GlobalCar.App.Persistencia\obj\Debug\netstandard2.1\Gl
 C:\respaldo\GlobalCar.App\GlobalCar.App.Persistencia\obj\Debug\netstandard2.1\GlobalCar.App.Persistencia.csproj.CopyComplete
 C:\respaldo\GlobalCar.App\GlobalCar.App.Persistencia\obj\Debug\netstandard2.1\GlobalCar.App.Persistencia.dll
 C:\respaldo\GlobalCar.App\GlobalCar.App.Persistencia\obj\Debug\netstandard2.1\GlobalCar.App.Persistencia.pdb
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Persistencia\bin\Debug\netstandard2.1\GlobalCar.App.Persistencia.deps.json
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Persistencia\bin\Debug\netstandard2.1\GlobalCar.App.Persistencia.dll
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Persistencia\bin\Debug\netstandard2.1\GlobalCar.App.Persistencia.pdb
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Persistencia\bin\Debug\netstandard2.1\GlobalCar.App.Dominio.dll
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Persistencia\bin\Debug\netstandard2.1\GlobalCar.App.Dominio.pdb
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Persistencia\obj\Debug\netstandard2.1\GlobalCar.App.Persistencia.csproj.AssemblyReference.cache
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Persistencia\obj\Debug\netstandard2.1\GlobalCar.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Persistencia\obj\Debug\netstandard2.1\GlobalCar.App.Persistencia.AssemblyInfoInputs.cache
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Persistencia\obj\Debug\netstandard2.1\GlobalCar.App.Persistencia.AssemblyInfo.cs
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Persistencia\obj\Debug\netstandard2.1\GlobalCar.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Persistencia\obj\Debug\netstandard2.1\GlobalCar.App.Persistencia.csproj.CopyComplete
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Persistencia\obj\Debug\netstandard2.1\GlobalCar.App.Persistencia.dll
+C:\respaldo\GlobalCar.App\MultiserviciosGlobalCar\GlobalCar.App.Persistencia\obj\Debug\netstandard2.1\GlobalCar.App.Persistencia.pdb
